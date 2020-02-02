@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="20%p"
+    android:horizontalGap="5dp"
+    android:verticalGap="5dp"
+    android:keyHeight="60dp"
+    android:keyTextColor="@android:color/black">
+
+    <Row>
+        <Key android:codes="1" android:keyLabel="Tekst" android:keyEdgeFlags="left"/>
+        <Key android:codes="2" android:keyLabel="Dźwięk"/>
+        <Key android:codes="3" android:keyLabel="Aparat"/>
+        <Key android:codes="4" android:keyLabel="Zapis"/>
+        <Key android:codes="5" android:keyLabel="Toast" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="6" android:keyLabel="Zmiana" android:horizontalGap="40%"/>
+
+    </Row>
+
+
+
+
+</Keyboard>

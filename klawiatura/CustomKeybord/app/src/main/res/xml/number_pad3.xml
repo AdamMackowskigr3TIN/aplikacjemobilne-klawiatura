@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="25%p"
+    android:horizontalGap="5dp"
+    android:verticalGap="5dp"
+    android:keyHeight="60dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <Row>
+
+        <Key android:codes="13" android:keyLabel="Zad 1" android:keyEdgeFlags="left"/>
+        <Key android:codes="14" android:keyLabel="Kom 1"/>
+        <Key android:codes="15" android:keyLabel="Kom 2"/>
+        <Key android:codes="16" android:keyLabel="Kom 3" android:keyEdgeFlags="right"/>
+
+    </Row>
+
+
+
+</Keyboard>
+
